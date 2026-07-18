@@ -30,7 +30,7 @@ Challenge de type Kaggle : prédire si un visiteur du site **www.datascienceweek
 | AdaBoost + LogisticRegression | 0.732 |
 | DecisionTreeClassifier (baseline) | 0.70 |
 
-Voir `Graph_compare_models.png` pour la comparaison visuelle des scores.
+![Comparaison des f1-scores par modèle](Graph_compare_models.png)
 
 ### Conclusions principales
 - `total_pages_visited` est de loin la feature la plus explicative de la conversion
