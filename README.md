@@ -1,5 +1,7 @@
 # JEDHA CDSD Certification (Bloc 3) — Projet #4 : Conversion Rate Challenge
 
+**Dépôt GitHub :** https://github.com/gviel/jedha-project-04-conversion-rate
+
 Challenge de type Kaggle : prédire si un visiteur du site **www.datascienceweekly.org** va s'inscrire à la newsletter (`converted`), à partir de quelques informations sur sa visite. Les prédictions sur le jeu de test (non labellisé) sont soumises pour être classées sur un leaderboard, avec le **f1-score** comme métrique d'évaluation.
 
 ## Objectifs
